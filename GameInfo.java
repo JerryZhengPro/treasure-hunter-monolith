@@ -21,7 +21,7 @@ import java.awt.event.ActionListener;
 // will display here too. 
 public class GameInfo extends JPanel implements ActionListener {
     final static private int GAME_INFO_HEIGHT = Board.getBoardHeight();
-    final static private int GAME_INFO_WIDTH = 300; 
+    final static private int GAME_INFO_WIDTH = 315; 
     
     final static private String SCORE_FONT = "Serif";
     final static private int SCORE_SIZE = 30; 

@@ -19,8 +19,8 @@ import java.util.Set;
  */
 // Program to create a board that holds the squares and treasures of the game
 public class Board extends JPanel implements MouseListener {
-    final static private int ROWS = 11;
-    final static private int COLS = 22; 
+    final static private int ROWS = 22;
+    final static private int COLS = 13; 
     final static private int BOARD_WIDTH = COLS * Square.getSideLength();
     final static private int BOARD_HEIGHT = ROWS * Square.getSideLength(); 
     
